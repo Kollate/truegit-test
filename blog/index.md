@@ -1,0 +1,6 @@
+---
+authors:
+  - quantdaddy
+---
+
+# Yo man

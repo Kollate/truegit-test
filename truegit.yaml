@@ -1,0 +1,23 @@
+title: overreacted
+description: I overReact all the time
+tagline:
+blogFolder: blog
+bannerImage: ./truegit.png
+logoImage: /truegit.png
+theme: "rgb(230,20,0)"
+navLinks:
+  - title: Hire Me
+    url: https://www.linkedin.com/in/suraj-keshri-50a53617/
+socials:
+  linkedin: https://www.linkedin.com/in/suraj-keshri-50a53617/
+  instagram: https://www.instagram.com/quantdaddy/
+  github: https://github.com/quant-daddy
+authors:
+  quantdaddy:
+    name: Suraj Keshri
+    title: Founder, Gully
+    description: Enjoys coding and coding only
+    url: https://gully.to
+    profileImage: "./suraj.png"
+    socials:
+      instagram: https://www.instagram.com/quantdaddy/
