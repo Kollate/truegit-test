@@ -1,11 +1,14 @@
 ---
-date: 2017-05-05
-tags: [kubernetes]
+date: 2017-05-05T00:00:00.000Z
+tags:
+  - kubernetes
 featured: true
-authors: [quantdaddy]
-bannerImage:
+authors:
+  - quantdaddy
+bannerImage: null
 ---
 
 # Nothing
 
-![Tux, the Linux mascot](./collection-1/Frame-35.png)
+Okay let's try doing this man. 
+
