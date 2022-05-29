@@ -2,7 +2,7 @@ title: overreacted
 description: I overReact all the time
 tagline:
 blogFolder: blog
-bannerImage: /banner-3544296_1280.webp
+# bannerImage: /banner-3544296_1280.webp
 logoImage: ./truegit.png
 theme: "rgb(230,20,0)"
 navLinks:
