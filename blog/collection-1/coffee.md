@@ -1,19 +1,17 @@
 ---
-date: 2017-05-05T00:00:00.000Z
+date: 2017-05-05
 tags:
-  - kubernetes
+  - graphql
 featured: true
 authors:
   - quantdaddy
-slug: nothing-else-matters
-subTitle: Because nothing else matters
-disableSuggestEdit: true
-bannerImage: ./download-1.jpeg
+slug: coffee-matters
+subTitle: Affogato mocha milk spoon single shot coffee saucer coffee rich spoon. Barista, roast robusta cup irish con panna sweet turkish. Single shot so doppio acerbic, ristretto caffeine affogato rich saucer lungo.
+title: Coffee Matters
+bannerImage: ./download.jpeg
 ---
 
-# Nothing
-
-# An h1 header updated
+# Second Article
 
 Paragraphs are separated by a blank line.
 
