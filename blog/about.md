@@ -1,1 +1,4 @@
+---
+disableSuggestEdit: true
+---
 ## About
