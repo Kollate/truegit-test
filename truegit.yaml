@@ -1,11 +1,12 @@
 title: OverReact
 description: I love React so much that I overReact.
+# This folder is where all the files related to the blog would live
 blogFolder: blog
 bannerImage: /banner.webp
 logoImage: ./logo.png
 navLinks:
-  - title: Hire Me
-    url: https://www.linkedin.com/in/suraj-keshri-50a53617/
+  - title: Clone Me
+    url: https://github.com/Kollate/truegit-test
     isExternal: true
 socials:
   linkedin: https://www.linkedin.com/in/suraj-keshri-50a53617/
