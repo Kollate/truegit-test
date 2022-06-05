@@ -1,5 +1,5 @@
 ---
-date: 2017-06-05
+date: '2017-06-05'
 tags:
   - kubernetes
 featured: true
@@ -7,15 +7,17 @@ authors:
   - quantdaddy
 slug: nothing-else-matters
 title: Coffee is good for health
-subTitle: Caramelization, aroma galão, in, cinnamon whipped cultivar bar  sugar espresso beans that. Percolator, extraction filter spoon lungo aroma carajillo barista. Aged single shot a robust french press seasonal macchiato flavour con panna.
-# Truegit allows viewer of your blog to be able to suggest changes to it. To disable that, use this flag.
+subTitle: >-
+  Caramelization, aroma galão, in, cinnamon whipped cultivar bar  sugar espresso
+  beans that. Percolator, extraction filter spoon lungo aroma carajillo barista.
+  Aged single shot a robust french press seasonal macchiato flavour con panna.
 disableSuggestEdit: true
 bannerImage: ./download.jpeg
 ---
 
 # Nothing
 
-Paragraphs are separated by a blank line.
+Paragraph s too.
 
 2nd paragraph. _Italic_, **bold**, and `monospace`. Itemized lists
 look like:
