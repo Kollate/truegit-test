@@ -1,8 +1,8 @@
-title: Shokanju
-description: A blog about coding, scince and thoughts
+title: Độc Cô Cửu Kiếm
+description: Một trang blog về lập trình, khoa học và những suy nghĩ vẩn vơ
 # This folder is where all the files related to the blog would live
 blogFolder: blog
-bannerImage: /banner.jpg
+bannerImage: /banner.webp
 logoImage: ./logo.png
 navLinks:
   - title: Docs
