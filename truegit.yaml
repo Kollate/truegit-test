@@ -1,5 +1,7 @@
 title: OverReact
 description: I love React so much that I overReact.
+# Theme must be a HEX value inside quotes
+theme: "#CF508A"
 # This folder is where all the files related to the blog would live
 bannerImage: /banner.webp
 logoImage: ./logo.png
