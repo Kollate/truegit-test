@@ -1,7 +1,6 @@
 title: OverReact
 description: I love React so much that I overReact.
 # This folder is where all the files related to the blog would live
-blogFolder: blog
 bannerImage: /banner.webp
 logoImage: ./logo.png
 navLinks:
