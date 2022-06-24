@@ -1,13 +1,14 @@
 ---
 date: 2017-06-05
 tags:
-  - kubernetes
+  - React Native
 featured: true
 authors:
-  - quantdaddy
-slug: nothing-else-matters
-title: Coffee is good for health
-subTitle: Caramelization, aroma galão, in, cinnamon whipped cultivar bar  sugar espresso beans that. Percolator, extraction filter spoon lungo aroma carajillo barista. Aged single shot a robust french press seasonal macchiato flavour con panna.
+  - tommy
+slug: reactnativeisgoodforyou
+title: Why React Native is a good pick
+subTitle: I still meet people who ask, if this new and shiny React Native thing is worth anything....
+Well, maybe I hang around with old dudes (like myself), but let me then enlighten these fellow seniors about the technology
 # Truegit allows viewer of your blog to be able to suggest changes to it. To disable that, use this flag.
 disableSuggestEdit: true
 bannerImage: ./download.jpeg
