@@ -3,6 +3,8 @@ disableSuggestEdit: true
 skipListing: true
 ---
 
-## About: Sample Change
+## About: 
 
-This is a sample about page for the blog. You may use this blog as a starting point for you blog. Simply clone the repository and install the [Truegit Github App](https://bit.ly/3GyRCBG) to get stated.
+I work as a freelance developer - sometimes I run the show as a CTO or team lead. 
+Other times I just code. 
+That's how I roll....
