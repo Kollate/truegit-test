@@ -1,5 +1,5 @@
-title: OverReact
-description: I love React so much that I overReact.
+title: DummyBlog
+description: Just a Dummy in the tech world
 # Theme must be a HEX value inside quotes
 theme: "#CF508A"
 backgroundColor: "#FAF5EF"
@@ -7,29 +7,17 @@ backgroundColor: "#FAF5EF"
 bannerImage: /banner.webp
 logoImage: ./logo.png
 navLinks:
-  - title: Docs
-    url: https://docs.truegit.io
-    isExternal: true
-  - title: Clone Me
-    url: https://github.com/Kollate/truegit-test
-    isExternal: true
 socials:
-  linkedin: https://www.linkedin.com/in/suraj-keshri-50a53617/
-  instagram: https://www.instagram.com/quantdaddy/
-  github: https://github.com/quant-daddy
+  linkedin: https://www.linkedin.com/in/tommydejbjergpedersen/
+  github: https://github.com/tpedersen123
 authors:
-  quantdaddy:
-    name: Suraj Keshri
-    title: Founder, Gully
-    description: Enjoys coding and coding only
-    url: https://gully.to
-    profileImage: "./assets/quantdaddy.jpeg"
+  dummy:
+    name: Tommy Dejberg Pedersen
+    title: Freelance coder
+    description: I love to build tech and tech teams
+    profileImage: "./assets/tommy.png"
     socials:
-      linkedin: https://www.linkedin.com/in/suraj-keshri-50a53617/
-      instagram: https://www.instagram.com/quantdaddy/
-      github: https://github.com/quant-daddy
-      twitter: https://twitter.com/quantdaddy
-      url: https://google.com
-      youtube: https://www.youtube.com/channel/UC5YwzJ-Vv_akOUIe5FZ-zDA
-      email: hello@truegit.io
-      reddit: https://www.reddit.com/r/kubernetes/
+      linkedin: https://www.linkedin.com/in/tommydejbjergpedersen/
+      github: https://github.com/tpedersen123
+      twitter: https://twitter.com/tpedersen
+    
