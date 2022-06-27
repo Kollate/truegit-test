@@ -1,6 +1,6 @@
 ---
 title: Markdown Syntax
-banner:
+bannerImage:
   path: ./assets/markdown-guide-og.jpeg
 ---
 
