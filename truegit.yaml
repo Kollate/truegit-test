@@ -1,5 +1,5 @@
-title: OverReact
-description: I love React so much that I overReact.
+title: Truegit
+description: A reference repository for Truegit blog
 # Theme must be a HEX value inside quotes
 theme: "#CF508A"
 backgroundColor: "#FAF5EF"
@@ -9,7 +9,11 @@ layout:
 bannerImage: /banner.webp
 logoImage: ./logo.png
 navLinks:
-  - title: Docs
+  - title: Archives
+    url: /archives
+  - title: RSS
+    url: /feed
+  - title: Official Docs
     url: https://docs.truegit.io
     isExternal: true
   - title: Clone Me
