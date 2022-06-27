@@ -1,7 +1,7 @@
 ---
+featured: true
+title: Create a blog
 ---
-
-# Create a blog
 
 To create a blog on Truegit, you need to do follow these steps:
 

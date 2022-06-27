@@ -2,7 +2,6 @@
 date: 2017-06-05
 tags:
   - kubernetes
-featured: true
 authors:
   - quantdaddy
 slug: nothing-else-matters
