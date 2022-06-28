@@ -1,5 +1,6 @@
 ---
 title: Collections
+weight: 10
 ---
 
 Collections are a way to categorize your blog posts. Each collection has a separate page on your blog with its own title and description. Each post of your blog can belong to a single collection only.

@@ -1,6 +1,7 @@
 ---
 featured: true
 title: Create a blog
+weight: 18
 ---
 
 To create a blog on Truegit, you need to do follow these steps:

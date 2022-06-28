@@ -1,5 +1,6 @@
 ---
 title: Blog Configuration
+weight: 20
 ---
 
 # Blog Configuration
