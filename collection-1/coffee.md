@@ -2,12 +2,11 @@
 date: 2017-05-05
 tags:
   - graphql
-featured: true
 authors:
   - quantdaddy
-slug: coffee-matters
+slug: another-sample-markdown-docs
 subTitle: Affogato mocha milk spoon single shot coffee saucer coffee rich spoon. Barista, roast robusta cup irish con panna sweet turkish. Single shot so doppio acerbic, ristretto caffeine affogato rich saucer lungo.
-title: Coffee Matters
+title: Sample Markdown Post
 bannerImage: ./coffee.webp
 ---
 
