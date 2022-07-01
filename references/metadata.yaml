@@ -1,0 +1,20 @@
+# A collection page can be accessed at `/<collection_folder_name>`
+# So this collection's page is `/references`
+
+# All the posts in the collection will not be listed on the home page.
+title: My Custom Collectiojn
+
+description: >-
+  The description of this collection.
+
+# Skip this collection posts to only appear inside the collection page.
+skipPostListing: true
+
+# In some layouts (Manhattan and Default layout for instance)
+# collection is listed in the secondary navbar.
+# To skip listing this collection, use the flag below.
+skipNavbar: true
+
+# All the posts in this collection is listed as a feed
+# inside the collection page
+enableFeedMode?: boolean;

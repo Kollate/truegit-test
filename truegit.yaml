@@ -1,12 +1,22 @@
+# The title of your blog.
 title: Truegit
+
+# Description
 description: A reference repository for Truegit blog
-# Theme must be a HEX value inside quotes
+
+# Theme color. Must be a HEX value in quotes
 theme: "#CF508A"
+
+# Background color. The main text color is either black or white, whichever is easier to read
 backgroundColor: "#FAF5EF"
+
+# We have a few layouts available. Manhattan, Brooklyn, and the default layout
 layout:
   type: Manhattan
 # This folder is where all the files related to the blog would live
-bannerImage: /banner.webp
+bannerImage:
+  # The path must be
+  path: /banner.webp
 logoImage: ./logo.png
 navLinks:
   - title: Archives
@@ -29,7 +39,8 @@ authors:
     title: Founder, Gully
     description: Enjoys coding and coding only
     url: https://gully.to
-    profileImage: "./assets/quantdaddy.jpeg"
+    profileImage:
+      path: "./assets/quantdaddy.jpeg"
     socials:
       linkedin: https://www.linkedin.com/in/suraj-keshri-50a53617/
       instagram: https://www.instagram.com/quantdaddy/

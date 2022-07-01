@@ -1,6 +1,7 @@
 ---
 title: Markdown Syntax
 weight: 100
+featured: true
 bannerImage:
   path: ./assets/markdown-guide-og.jpeg
 ---
