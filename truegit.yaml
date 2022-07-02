@@ -10,6 +10,16 @@ theme: "#CF508A"
 # Background color. The main text color is either black or white, whichever is easier to read
 backgroundColor: "#FAF5EF"
 
+# Font family for title/heading of your blog posts
+# FontFamily can be any of the following
+# Serif Fonts: 'LORA' | 'NOTO_SERIF' | 'SOURCE_SERIF_PRO'
+# Sans Fonts: 'ROBOTO_SLAB' | 'SOURCE_SANS_PRO'
+# Mono Fonts: 'ROBOTO_MONO'
+titleFont: SOURCE_SANS_PRO
+
+# Font family for blog post content
+bodyFont: LORA
+
 # We have a few layouts available. Manhattan, Brooklyn, and the default layout
 layout:
   type: Manhattan
