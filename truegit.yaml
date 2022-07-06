@@ -22,7 +22,6 @@ bodyFont: LORA
 
 # We have a few layouts available. Manhattan, Brooklyn, and the default layout
 layout:
-  type: Manhattan
 # This folder is where all the files related to the blog would live
 bannerImage:
   # The path must be
