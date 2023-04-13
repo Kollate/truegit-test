@@ -4,7 +4,7 @@ subTitle: first post
 date: 2023/04/13 
 slug: first-post-slug
 authors:
-  - @stonefrango
+  - stonefrango
 featured: true
 ---
 
