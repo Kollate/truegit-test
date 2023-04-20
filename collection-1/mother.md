@@ -1,7 +1,7 @@
 ---
 date: 2023-19-04
 tags:
-  - kubernetes
+  - test
 authors:
   - quantdaddy
 slug: babies
